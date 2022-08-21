@@ -1,2 +1,4 @@
-package com.blz.generic;public class StringMax {
+package com.blz.generic;
+
+public class StringMax  {
 }
